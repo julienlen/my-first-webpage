@@ -1,0 +1,22 @@
+h1 {
+  color: green;
+  text-align: center;
+}
+
+h2 {
+  font-style: italic;
+  text-align: center;
+}
+
+p {
+  font-family: sans-serif;
+  color: pink;
+  text-align: center;
+  font-style: italic;
+}
+
+ul {
+  font-size: 20px;
+  line-height: 30px;
+}
+/* This is poor indentation and spacing! Do not do this.*/
